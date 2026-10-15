@@ -38,6 +38,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/manankundani268/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/manankundani268/Leetcode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/manankundani268/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0400-nth-digit](https://github.com/manankundani268/Leetcode/tree/master/0400-nth-digit) |
 | [1004-max-consecutive-ones-iii](https://github.com/manankundani268/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Interactive
 |  |
@@ -51,4 +52,5 @@
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/manankundani268/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0400-nth-digit](https://github.com/manankundani268/Leetcode/tree/master/0400-nth-digit) |
 <!---LeetCode Topics End-->

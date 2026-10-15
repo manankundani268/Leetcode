@@ -28,5 +28,10 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/manankundani268/Leetcode/tree/master/0278-first-bad-version) |
 | [1004-max-consecutive-ones-iii](https://github.com/manankundani268/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/manankundani268/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

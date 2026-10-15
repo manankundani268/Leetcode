@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manankundani268/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/manankundani268/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/manankundani268/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
@@ -28,6 +29,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manankundani268/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/manankundani268/Leetcode/tree/master/0278-first-bad-version) |
 | [1004-max-consecutive-ones-iii](https://github.com/manankundani268/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Interactive

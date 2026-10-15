@@ -37,6 +37,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manankundani268/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/manankundani268/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/manankundani268/Leetcode/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/manankundani268/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1004-max-consecutive-ones-iii](https://github.com/manankundani268/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Interactive
 |  |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manankundani268/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/manankundani268/Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->

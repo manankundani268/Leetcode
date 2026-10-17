@@ -41,6 +41,7 @@
 | [0367-valid-perfect-square](https://github.com/manankundani268/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/manankundani268/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/manankundani268/Leetcode/tree/master/0400-nth-digit) |
+| [0754-reach-a-number](https://github.com/manankundani268/Leetcode/tree/master/0754-reach-a-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/manankundani268/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manankundani268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
@@ -57,6 +58,7 @@
 | ------- |
 | [0367-valid-perfect-square](https://github.com/manankundani268/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/manankundani268/Leetcode/tree/master/0400-nth-digit) |
+| [0754-reach-a-number](https://github.com/manankundani268/Leetcode/tree/master/0754-reach-a-number) |
 ## Sorting
 |  |
 | ------- |

@@ -1,15 +1,19 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
+        vector<int> freq(100001,0);
         int left = 0;
         int maxlen = 0;
-        unordered_map<int,int> count;
+        int distinct_types = 0;
         for(int right=0;right<fruits.size();right++){
-            count[fruits[right]]++;
-            while(count.size() > 2){
-                count[fruits[left]]--;
-                if(count[fruits[left]] == 0){
-                    count.erase(fruits[left]);
+            if(freq[fruits[right]] == 0){
+                distinct_types++;
+            }
+            freq[fruits[right]]++;
+            if(distinct_types > 2){
+                freq[fruits[left]]--;
+                if(freq[fruits[left]] == 0){
+                    distinct_types--;
                 }
                 left++;
             }

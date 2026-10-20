@@ -59,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/manankundani268/Leetcode/tree/master/0050-powx-n) |
 | [0367-valid-perfect-square](https://github.com/manankundani268/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/manankundani268/Leetcode/tree/master/0400-nth-digit) |
 | [0754-reach-a-number](https://github.com/manankundani268/Leetcode/tree/master/0754-reach-a-number) |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manankundani268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/manankundani268/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

@@ -1,20 +1,17 @@
 class Solution {
 public:
     bool checkPerfectNumber(int num) {
-        int n = 1;
-        int sum = 0;
-        while(n<num){
-            if(num%n == 0){
-                sum+=n;
-            }
-            n++;
+        if(num<=1) return false;
 
+        int sum = 1;
+        for(int i=2;i*i<=num;i++){
+            if(num%i==0){
+                sum+=i;
+                if(i*i!=num){
+                    sum += num/i;
+                }
+            }
         }
-        if(sum == num){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return sum==num;
     }
 };

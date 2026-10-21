@@ -36,6 +36,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/manankundani268/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/manankundani268/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/manankundani268/Leetcode/tree/master/0344-reverse-string) |
+| [1903-largest-odd-number-in-string](https://github.com/manankundani268/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0367-valid-perfect-square](https://github.com/manankundani268/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/manankundani268/Leetcode/tree/master/0400-nth-digit) |
 | [0754-reach-a-number](https://github.com/manankundani268/Leetcode/tree/master/0754-reach-a-number) |
+| [1903-largest-odd-number-in-string](https://github.com/manankundani268/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/manankundani268/Leetcode/tree/master/2235-add-two-integers) |
 ## Sorting
 |  |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/manankundani268/Leetcode/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/manankundani268/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->

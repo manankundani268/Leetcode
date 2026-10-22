@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manankundani268/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/manankundani268/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0904-fruit-into-baskets](https://github.com/manankundani268/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -38,6 +39,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/manankundani268/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/manankundani268/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/manankundani268/Leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/manankundani268/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/manankundani268/Leetcode/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/manankundani268/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search

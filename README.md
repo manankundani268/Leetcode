@@ -42,6 +42,7 @@
 | [0125-valid-palindrome](https://github.com/manankundani268/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/manankundani268/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/manankundani268/Leetcode/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/manankundani268/Leetcode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/manankundani268/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -116,4 +117,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/manankundani268/Leetcode/tree/master/0204-count-primes) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/manankundani268/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

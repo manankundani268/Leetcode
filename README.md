@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manankundani268/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/manankundani268/Leetcode/tree/master/0016-3sum-closest) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manankundani268/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manankundani268/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/manankundani268/Leetcode/tree/master/0204-count-primes) |
@@ -63,6 +64,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/manankundani268/Leetcode/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/manankundani268/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manankundani268/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/manankundani268/Leetcode/tree/master/0344-reverse-string) |
@@ -80,6 +82,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/manankundani268/Leetcode/tree/master/0016-3sum-closest) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manankundani268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Recursion
 |  |

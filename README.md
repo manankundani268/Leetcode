@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manankundani268/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/manankundani268/Leetcode/tree/master/0016-3sum-closest) |
+| [0128-longest-consecutive-sequence](https://github.com/manankundani268/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manankundani268/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manankundani268/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/manankundani268/Leetcode/tree/master/0204-count-primes) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manankundani268/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/manankundani268/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/manankundani268/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/manankundani268/Leetcode/tree/master/0242-valid-anagram) |
 | [0904-fruit-into-baskets](https://github.com/manankundani268/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/manankundani268/Leetcode/tree/master/0796-rotate-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/manankundani268/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

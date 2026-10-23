@@ -36,6 +36,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/manankundani268/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/manankundani268/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/manankundani268/Leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/manankundani268/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/manankundani268/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -46,6 +47,7 @@
 | [0205-isomorphic-strings](https://github.com/manankundani268/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/manankundani268/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/manankundani268/Leetcode/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/manankundani268/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/manankundani268/Leetcode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/manankundani268/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
@@ -89,6 +91,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/manankundani268/Leetcode/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/manankundani268/Leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/manankundani268/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manankundani268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Recursion
 |  |
@@ -130,4 +133,16 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/manankundani268/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/manankundani268/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/manankundani268/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/manankundani268/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

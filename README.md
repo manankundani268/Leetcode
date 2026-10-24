@@ -54,6 +54,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/manankundani268/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manankundani268/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/manankundani268/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/manankundani268/Leetcode/tree/master/2409-count-days-spent-together) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0754-reach-a-number](https://github.com/manankundani268/Leetcode/tree/master/0754-reach-a-number) |
 | [1903-largest-odd-number-in-string](https://github.com/manankundani268/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/manankundani268/Leetcode/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/manankundani268/Leetcode/tree/master/2409-count-days-spent-together) |
 ## Sorting
 |  |
 | ------- |

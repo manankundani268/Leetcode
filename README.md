@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/manankundani268/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/manankundani268/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/manankundani268/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/manankundani268/Leetcode/tree/master/0027-remove-element) |
@@ -83,6 +84,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/manankundani268/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/manankundani268/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/manankundani268/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/manankundani268/Leetcode/tree/master/0125-valid-palindrome) |
@@ -116,6 +118,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/manankundani268/Leetcode/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/manankundani268/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |

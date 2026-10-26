@@ -5,7 +5,7 @@ public:
         int n = height.size();
         int right = n-1;
         int water = 0;
-        while(left<right){
+        while(left<=right){
             int pointer = min(height[left],height[right]);
             water = max(water,pointer*(right-left));
             if(pointer == height[left]){

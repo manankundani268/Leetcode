@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/manankundani268/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/manankundani268/Leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/manankundani268/Leetcode/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/manankundani268/Leetcode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/manankundani268/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manankundani268/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manankundani268/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -98,6 +99,7 @@
 | [0012-integer-to-roman](https://github.com/manankundani268/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manankundani268/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/manankundani268/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/manankundani268/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/manankundani268/Leetcode/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/manankundani268/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/manankundani268/Leetcode/tree/master/0400-nth-digit) |

@@ -57,6 +57,7 @@
 | [0041-first-missing-positive](https://github.com/manankundani268/Leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/manankundani268/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/manankundani268/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/manankundani268/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/manankundani268/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/manankundani268/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/manankundani268/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -117,6 +118,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manankundani268/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/manankundani268/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manankundani268/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/manankundani268/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/manankundani268/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/manankundani268/Leetcode/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/manankundani268/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -127,6 +129,7 @@
 | [0013-roman-to-integer](https://github.com/manankundani268/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/manankundani268/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/manankundani268/Leetcode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/manankundani268/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/manankundani268/Leetcode/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/manankundani268/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/manankundani268/Leetcode/tree/master/0400-nth-digit) |
@@ -217,4 +220,8 @@
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/manankundani268/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/manankundani268/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

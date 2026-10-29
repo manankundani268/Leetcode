@@ -18,6 +18,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/manankundani268/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/manankundani268/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0611-valid-triangle-number](https://github.com/manankundani268/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0845-longest-mountain-in-array](https://github.com/manankundani268/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0904-fruit-into-baskets](https://github.com/manankundani268/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/manankundani268/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/manankundani268/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -124,6 +125,7 @@
 | [0443-string-compression](https://github.com/manankundani268/Leetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/manankundani268/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/manankundani268/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0845-longest-mountain-in-array](https://github.com/manankundani268/Leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Math
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/manankundani268/Leetcode/tree/master/0204-count-primes) |
+| [0845-longest-mountain-in-array](https://github.com/manankundani268/Leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -226,4 +229,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/manankundani268/Leetcode/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/manankundani268/Leetcode/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->

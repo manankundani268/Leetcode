@@ -25,6 +25,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/manankundani268/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/manankundani268/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/manankundani268/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manankundani268/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manankundani268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
@@ -40,6 +41,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/manankundani268/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manankundani268/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/manankundani268/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manankundani268/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -233,4 +235,5 @@
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/manankundani268/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manankundani268/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->

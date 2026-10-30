@@ -27,6 +27,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/manankundani268/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manankundani268/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/manankundani268/Leetcode/tree/master/1652-defuse-the-bomb) |
+| [1695-maximum-erasure-value](https://github.com/manankundani268/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manankundani268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
@@ -44,6 +45,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/manankundani268/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manankundani268/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/manankundani268/Leetcode/tree/master/1652-defuse-the-bomb) |
+| [1695-maximum-erasure-value](https://github.com/manankundani268/Leetcode/tree/master/1695-maximum-erasure-value) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/manankundani268/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/manankundani268/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manankundani268/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1695-maximum-erasure-value](https://github.com/manankundani268/Leetcode/tree/master/1695-maximum-erasure-value) |
 ## String
 |  |
 | ------- |

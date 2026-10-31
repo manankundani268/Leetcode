@@ -29,6 +29,7 @@
 | [1652-defuse-the-bomb](https://github.com/manankundani268/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/manankundani268/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manankundani268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/manankundani268/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manankundani268/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manankundani268/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/manankundani268/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2109-adding-spaces-to-a-string](https://github.com/manankundani268/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2409-count-days-spent-together](https://github.com/manankundani268/Leetcode/tree/master/2409-count-days-spent-together) |
 ## Binary Search
 |  |
@@ -133,6 +135,7 @@
 | [0541-reverse-string-ii](https://github.com/manankundani268/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/manankundani268/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0845-longest-mountain-in-array](https://github.com/manankundani268/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/manankundani268/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 ## Math
 |  |
 | ------- |
@@ -241,4 +244,8 @@
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/manankundani268/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manankundani268/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Simulation
+|  |
+| ------- |
+| [2109-adding-spaces-to-a-string](https://github.com/manankundani268/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->

@@ -30,6 +30,7 @@
 | [1695-maximum-erasure-value](https://github.com/manankundani268/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manankundani268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/manankundani268/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2367-number-of-arithmetic-triplets](https://github.com/manankundani268/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/manankundani268/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manankundani268/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/manankundani268/Leetcode/tree/master/1695-maximum-erasure-value) |
+| [2367-number-of-arithmetic-triplets](https://github.com/manankundani268/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## String
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0611-valid-triangle-number](https://github.com/manankundani268/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0845-longest-mountain-in-array](https://github.com/manankundani268/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/manankundani268/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
+| [2367-number-of-arithmetic-triplets](https://github.com/manankundani268/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +183,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/manankundani268/Leetcode/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/manankundani268/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/manankundani268/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Number Theory
 |  |
 | ------- |

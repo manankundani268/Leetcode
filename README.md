@@ -24,6 +24,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/manankundani268/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/manankundani268/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/manankundani268/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/manankundani268/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/manankundani268/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/manankundani268/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manankundani268/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -118,12 +119,14 @@
 | [0754-reach-a-number](https://github.com/manankundani268/Leetcode/tree/master/0754-reach-a-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manankundani268/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/manankundani268/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/manankundani268/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manankundani268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/manankundani268/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/manankundani268/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/manankundani268/Leetcode/tree/master/1095-find-in-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -258,4 +261,5 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manankundani268/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/manankundani268/Leetcode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->

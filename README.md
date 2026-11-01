@@ -19,6 +19,7 @@
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/manankundani268/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0611-valid-triangle-number](https://github.com/manankundani268/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0845-longest-mountain-in-array](https://github.com/manankundani268/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/manankundani268/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/manankundani268/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/manankundani268/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/manankundani268/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -115,6 +116,7 @@
 | [0400-nth-digit](https://github.com/manankundani268/Leetcode/tree/master/0400-nth-digit) |
 | [0611-valid-triangle-number](https://github.com/manankundani268/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0754-reach-a-number](https://github.com/manankundani268/Leetcode/tree/master/0754-reach-a-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/manankundani268/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/manankundani268/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manankundani268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
@@ -252,4 +254,8 @@
 |  |
 | ------- |
 | [2109-adding-spaces-to-a-string](https://github.com/manankundani268/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/manankundani268/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

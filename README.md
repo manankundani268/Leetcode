@@ -24,6 +24,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/manankundani268/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/manankundani268/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/manankundani268/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/manankundani268/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/manankundani268/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/manankundani268/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/manankundani268/Leetcode/tree/master/1095-find-in-mountain-array) |
@@ -147,6 +148,7 @@
 | [0541-reverse-string-ii](https://github.com/manankundani268/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0611-valid-triangle-number](https://github.com/manankundani268/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0845-longest-mountain-in-array](https://github.com/manankundani268/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/manankundani268/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manankundani268/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2109-adding-spaces-to-a-string](https://github.com/manankundani268/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/manankundani268/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -178,6 +180,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/manankundani268/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manankundani268/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/manankundani268/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/manankundani268/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manankundani268/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manankundani268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Recursion

@@ -32,6 +32,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manankundani268/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/manankundani268/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manankundani268/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manankundani268/Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1652-defuse-the-bomb](https://github.com/manankundani268/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/manankundani268/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manankundani268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -126,6 +127,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/manankundani268/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/manankundani268/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manankundani268/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manankundani268/Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manankundani268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
 |  |
@@ -150,6 +152,7 @@
 | [0845-longest-mountain-in-array](https://github.com/manankundani268/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/manankundani268/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manankundani268/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manankundani268/Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2109-adding-spaces-to-a-string](https://github.com/manankundani268/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/manankundani268/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Math
@@ -244,6 +247,7 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/manankundani268/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manankundani268/Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manankundani268/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -276,4 +280,8 @@
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manankundani268/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/manankundani268/Leetcode/tree/master/1095-find-in-mountain-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manankundani268/Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->

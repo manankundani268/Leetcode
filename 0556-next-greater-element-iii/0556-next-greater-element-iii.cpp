@@ -24,6 +24,6 @@ public:
         if(result > INT_MAX){
             return -1;
         }
-        return static_cast<int>(result);
+        return result;
     }
 };

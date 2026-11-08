@@ -103,6 +103,7 @@
 | [0443-string-compression](https://github.com/manankundani268/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/manankundani268/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/manankundani268/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/manankundani268/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0796-rotate-string](https://github.com/manankundani268/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/manankundani268/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manankundani268/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -148,6 +149,7 @@
 | [0344-reverse-string](https://github.com/manankundani268/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/manankundani268/Leetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/manankundani268/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/manankundani268/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/manankundani268/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0845-longest-mountain-in-array](https://github.com/manankundani268/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/manankundani268/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -169,6 +171,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/manankundani268/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manankundani268/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/manankundani268/Leetcode/tree/master/0507-perfect-number) |
+| [0556-next-greater-element-iii](https://github.com/manankundani268/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0754-reach-a-number](https://github.com/manankundani268/Leetcode/tree/master/0754-reach-a-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/manankundani268/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/manankundani268/Leetcode/tree/master/1903-largest-odd-number-in-string) |

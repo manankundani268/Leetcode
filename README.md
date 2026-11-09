@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manankundani268/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/manankundani268/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/manankundani268/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/manankundani268/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/manankundani268/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/manankundani268/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manankundani268/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -118,6 +119,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/manankundani268/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/manankundani268/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/manankundani268/Leetcode/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/manankundani268/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/manankundani268/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/manankundani268/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/manankundani268/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
@@ -272,6 +274,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/manankundani268/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/manankundani268/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/manankundani268/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Simulation
@@ -287,4 +290,8 @@
 |  |
 | ------- |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manankundani268/Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/manankundani268/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

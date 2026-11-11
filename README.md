@@ -182,6 +182,7 @@
 | [2235-add-two-integers](https://github.com/manankundani268/Leetcode/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/manankundani268/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/manankundani268/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/manankundani268/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [0611-valid-triangle-number](https://github.com/manankundani268/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/manankundani268/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/manankundani268/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/manankundani268/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Trie
 |  |
 | ------- |

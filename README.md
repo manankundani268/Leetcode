@@ -109,6 +109,7 @@
 | [0556-next-greater-element-iii](https://github.com/manankundani268/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0796-rotate-string](https://github.com/manankundani268/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/manankundani268/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/manankundani268/Leetcode/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manankundani268/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manankundani268/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/manankundani268/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -158,6 +159,7 @@
 | [0845-longest-mountain-in-array](https://github.com/manankundani268/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/manankundani268/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/manankundani268/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1163-last-substring-in-lexicographical-order](https://github.com/manankundani268/Leetcode/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manankundani268/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manankundani268/Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2109-adding-spaces-to-a-string](https://github.com/manankundani268/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
@@ -305,4 +307,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/manankundani268/Leetcode/tree/master/0881-boats-to-save-people) |
+## Lyndon Factorization
+|  |
+| ------- |
+| [1163-last-substring-in-lexicographical-order](https://github.com/manankundani268/Leetcode/tree/master/1163-last-substring-in-lexicographical-order) |
 <!---LeetCode Topics End-->

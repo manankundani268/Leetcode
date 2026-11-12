@@ -1,21 +1,15 @@
 class Solution {
 public:
     string lastSubstring(string s) {
-        int n = s.length();
-        int i = 0,j = 1,k = 0;
-        while(j+k < n){
-            if(s[i+k] == s[j+k]){
-                k++;
-            }
-            else if(s[i+k] < s[j+k]){
-                i += k+1;
-                k = 0;
-                if(i>=j){
-                    j = i+1;
-                }
-            }
-            else{
+        int n = s.size(), i = 0, j = 1, k = 0;
+        while (j + k < n) {
+            if (s[i+k] == s[j+k]) k++;
+            else if (s[i+k] > s[j+k]) {
                 j += k+1;
+                k = 0;
+            } else {
+                i = max(j, i+k+1);
+                j = i+1;
                 k = 0;
             }
         }

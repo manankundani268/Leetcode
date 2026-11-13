@@ -20,6 +20,7 @@
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/manankundani268/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/manankundani268/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manankundani268/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/manankundani268/Leetcode/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/manankundani268/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0845-longest-mountain-in-array](https://github.com/manankundani268/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manankundani268/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -127,6 +128,7 @@
 | [0367-valid-perfect-square](https://github.com/manankundani268/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/manankundani268/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/manankundani268/Leetcode/tree/master/0400-nth-digit) |
+| [0475-heaters](https://github.com/manankundani268/Leetcode/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/manankundani268/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0754-reach-a-number](https://github.com/manankundani268/Leetcode/tree/master/0754-reach-a-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manankundani268/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -153,6 +155,7 @@
 | [0202-happy-number](https://github.com/manankundani268/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/manankundani268/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/manankundani268/Leetcode/tree/master/0443-string-compression) |
+| [0475-heaters](https://github.com/manankundani268/Leetcode/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/manankundani268/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/manankundani268/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/manankundani268/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -193,6 +196,7 @@
 | [0242-valid-anagram](https://github.com/manankundani268/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/manankundani268/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manankundani268/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/manankundani268/Leetcode/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/manankundani268/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/manankundani268/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/manankundani268/Leetcode/tree/master/0977-squares-of-a-sorted-array) |

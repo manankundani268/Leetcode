@@ -38,6 +38,7 @@
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manankundani268/Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1652-defuse-the-bomb](https://github.com/manankundani268/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/manankundani268/Leetcode/tree/master/1695-maximum-erasure-value) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/manankundani268/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manankundani268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/manankundani268/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/manankundani268/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -172,6 +173,7 @@
 | [1163-last-substring-in-lexicographical-order](https://github.com/manankundani268/Leetcode/tree/master/1163-last-substring-in-lexicographical-order) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manankundani268/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/manankundani268/Leetcode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/manankundani268/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/manankundani268/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/manankundani268/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Math
@@ -208,6 +210,7 @@
 | [0881-boats-to-save-people](https://github.com/manankundani268/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/manankundani268/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manankundani268/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/manankundani268/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manankundani268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Recursion
 |  |
@@ -219,6 +222,7 @@
 | [0011-container-with-most-water](https://github.com/manankundani268/Leetcode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/manankundani268/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/manankundani268/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/manankundani268/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/manankundani268/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/manankundani268/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Trie

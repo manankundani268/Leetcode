@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/manankundani268/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/manankundani268/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/manankundani268/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/manankundani268/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/manankundani268/Leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/manankundani268/Leetcode/tree/master/0041-first-missing-positive) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/manankundani268/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/manankundani268/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/manankundani268/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/manankundani268/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manankundani268/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -201,6 +203,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/manankundani268/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/manankundani268/Leetcode/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/manankundani268/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/manankundani268/Leetcode/tree/master/0451-sort-characters-by-frequency) |

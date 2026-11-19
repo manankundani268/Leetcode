@@ -43,6 +43,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/manankundani268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/manankundani268/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/manankundani268/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/manankundani268/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/manankundani268/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/manankundani268/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/manankundani268/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -218,6 +219,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/manankundani268/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manankundani268/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manankundani268/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/manankundani268/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -230,6 +232,7 @@
 | [0881-boats-to-save-people](https://github.com/manankundani268/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/manankundani268/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/manankundani268/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/manankundani268/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/manankundani268/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Trie
 |  |
